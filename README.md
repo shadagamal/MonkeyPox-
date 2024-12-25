@@ -27,6 +27,7 @@ The dataset, containing labeled Monkeypox and Non-Monkeypox images, was sourced 
 #### 1. Data Preprocessing
 - Imported essential libraries: `Numpy`, `Pandas`, `Matplotlib`, `TensorFlow`, `OpenCV`, `Skimage`, `Pywt`, and more.
 - Organized and cleaned the dataset, ensuring all images were consistent in shape and resolution.
+- Sharpening the images to boost the visibility of the key features that are depicted in the image 
 - Normalized images to a range of [0,1] using MinMax normalization.
 
 #### 2. Feature Extraction

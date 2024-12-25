@@ -42,7 +42,7 @@ The dataset, containing labeled Monkeypox and Non-Monkeypox images, was sourced 
 - **Color Features**:
   - Color Moments
   - Histograms
-
+### The notebook that extracts the next features is [here](https://drive.google.com/file/d/1ZYqvcIw7ZwH8R7ObbZfO9GmtVrdz9V0I/view?usp=drive_link). 
 - **Wavelet Features**:
   - Haar wavelet transform coefficients
 
